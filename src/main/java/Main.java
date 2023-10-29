@@ -10,6 +10,7 @@ public class Main {
         System.out.println("Enter your name? ");
         String  name = scanner.nextLine();
         System.out.println( "Hello my name is " + name + " ! ");
+        System.out.println( " You are neither Alice nor Bob. ");
 
     }
 
